@@ -1,0 +1,35 @@
+ADDMISSION CHOICE FILLING FOR DEEPIKA S
+
+
+1.Anna University,Guindy - CSE
+
+2.Anna University,Guindy - B.Tech IT
+
+3.Anna University - B.Tech AI & DS (Artificial Inteligence and Data Science)
+
+4.SSN college of Engineering - 1315 - CSE
+
+5.SSN college of Engineering - 1315 - B.Tech IT
+
+6.St.Joseph's College of Engineering - 1317 - CSE
+
+7.St.Joseph's College of Engineering - 1317 - B.Tech IT
+
+8.St.JOSEPH'S INSTITUTE OF TECHNOLOGY -1149 - CSE 
+
+9.St.JOSEPH'S INSTITUTE OF TECHNOLOGY -1149 - B.tech IT
+
+10.Jerusalem College of Engineering - 1307 - CSE
+
+11.Jerusalem College of Engineering - 1307 - B.Tech IT
+
+12.KCG college of Engineering - 1311 - CSE 
+
+13.KCG college of Engineering - 1311 - B.Tech IT
+
+14.Anand Institute of Higher Technology - 1303 - CSE
+
+15.Anand Institute of Higher Technology - 1303 - B.Tech IT
+
+16.Jerusalem College of Engineering - 1307 - AI & DS (Artificial Inteligence and Data Science)
+
